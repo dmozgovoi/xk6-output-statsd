@@ -1,4 +1,4 @@
-module github.com/svsool/xk6-output-statsd
+module github.com/dmozgovoi/xk6-output-statsd
 
 go 1.20
 

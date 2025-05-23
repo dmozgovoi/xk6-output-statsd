@@ -6,7 +6,7 @@ For those seeking to continue using StatsD, the functionality may be compiled in
 
 ## Fork Notes 
 
-This fork adds [support](https://github.com/svsool/xk6-output-statsd/pull/1) for k6 checks as tags in StatsD.
+This fork adds [support](https://github.com/dmozgovoi/xk6-output-statsd/pull/1) for k6 checks as tags in StatsD.
 
 Tag name and value sanitization were also added. 
 
@@ -21,7 +21,7 @@ To build a `k6` binary with this extension, first ensure you have the prerequisi
 1. Build with `xk6`:
 
 ```bash
-xk6 build --with github.com/svsool/xk6-output-statsd
+xk6 build --with github.com/dmozgovoi/xk6-output-statsd
 ```
 
 This will result in a `k6` binary in the current directory.

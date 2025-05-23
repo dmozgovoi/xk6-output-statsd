@@ -2,7 +2,8 @@
 package statsd
 
 import (
-	"github.com/svsool/xk6-output-statsd/pkg/statsd"
+	"github.com/
+	dmozgovoi/xk6-output-statsd/pkg/statsd"
 	"go.k6.io/k6/output"
 )
 
